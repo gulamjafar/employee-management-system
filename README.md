@@ -1,4 +1,5 @@
 # Employee Management System
+http://localhost:5173/
 
 A full-stack Employee Management System built using React, Node.js, Express.js and MongoDB.
 
