@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import axios from "axios";
 import "./App.css";
 
-const API_URL = "http://localhost:5000/api/employees";
+const API_URL = "https://employee-management-system-shk4.onrender.com/api/employees";
 
 const initialForm = {
   name: "",
