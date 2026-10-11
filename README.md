@@ -1,5 +1,5 @@
 # Employee Management System
-http://localhost:5173/
+https://employee-management-system-1-uz37.onrender.com
 
 A full-stack Employee Management System built using React, Node.js, Express.js and MongoDB.
 
